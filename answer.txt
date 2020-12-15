@@ -1,0 +1,9 @@
+The time taken to compete matrix multiplication using Message Passing is :
+ 1.675845
+
+The time taken to compete matrix multiplication using Shared memory is :
+ 14.840379
+
+The time taken to compete matrix multiplication using sequential approach is :
+ 26.230073
+
